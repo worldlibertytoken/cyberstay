@@ -1,0 +1,15 @@
+[23-Sep-2026 13:32:16 UTC] PHP Warning:  require(/home/yfqoovwdze/cyberstay.cybrillcodex.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/yfqoovwdze/cyberstay.cybrillcodex.com/index.php on line 14
+[23-Sep-2026 13:32:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yfqoovwdze/cyberstay.cybrillcodex.com/../vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yfqoovwdze/cyberstay.cybrillcodex.com/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yfqoovwdze/cyberstay.cybrillcodex.com/index.php on line 14
+[23-Sep-2026 13:34:36 UTC] PHP Warning:  require(/home/yfqoovwdze/cyberstay.cybrillcodex.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/yfqoovwdze/cyberstay.cybrillcodex.com/index.php on line 14
+[23-Sep-2026 13:34:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yfqoovwdze/cyberstay.cybrillcodex.com/../vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yfqoovwdze/cyberstay.cybrillcodex.com/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yfqoovwdze/cyberstay.cybrillcodex.com/index.php on line 14
+[23-Sep-2026 13:40:26 UTC] PHP Warning:  require(/home/yfqoovwdze/cyberstay.cybrillcodex.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/yfqoovwdze/cyberstay.cybrillcodex.com/index.php on line 14
+[23-Sep-2026 13:40:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yfqoovwdze/cyberstay.cybrillcodex.com/../vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yfqoovwdze/cyberstay.cybrillcodex.com/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yfqoovwdze/cyberstay.cybrillcodex.com/index.php on line 14
